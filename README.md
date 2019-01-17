@@ -1,2 +1,4 @@
-# meteor-minifier
-Alternative to standard-minifier-js
+Meteor Minifier
+---------------
+
+Here be dragons!
