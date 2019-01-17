@@ -26,6 +26,6 @@ To configure minifier, add .meteorminifierrc in the root of your application
 }
 ```
 
-- `ignorePatterns` is required
+- If you specifying additional ignore patterns in `ignorePattern` make sure `.min.js` is still there.
 
 If config is not specified, a default config will be used.
