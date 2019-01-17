@@ -1,6 +1,6 @@
 Package.describe({
     name: 'ioapps:meteor-minifier',
-    version: '0.0.1',
+    version: '1.0.0',
     summary: '[BETA] Meteor minifier alternative',
     git: 'https://github.com/iuriioapps/meteor-minifier',
     documentation: 'README.md'
