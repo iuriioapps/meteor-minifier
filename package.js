@@ -1,5 +1,5 @@
 Package.describe({
-    name: 'ioapps:meteor-minifier',
+    name: 'iuriioapps:meteor-minifier',
     version: '1.0.0',
     summary: '[BETA] Meteor minifier alternative',
     git: 'https://github.com/iuriioapps/meteor-minifier',
@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Package.registerBuildPlugin({
-    name: "meteor-minifier",
+    name: "iuriioapps:meteor-minifier",
     use: [
         'babel-compiler@7.2.4',
         'ecmascript@0.12.4'
